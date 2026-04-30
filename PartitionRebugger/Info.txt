@@ -1,0 +1,13 @@
+      ====================
+
+       REBUGGER PARTITION
+
+      ====================
+RebuggerPartition is a tool that allows you to view your connected SATA, NVMe, and other drives.
+With this tool, you can see if a USB port is working and view information about the devices connected to the computer, including which USB port they're connected to. The tool performs a quick refresh when a device is connected. If it's connected and doesn't perform a quick refresh, it means the device is damaged. If it's working, contact "ProjectRebug" to have the problem resolved.
+Good use!
+
+
+                                                                        ======================================
+                                                                        CHECK OUR GITHUB SITE FOR MORE UPDATES
+                                                                        ======================================
