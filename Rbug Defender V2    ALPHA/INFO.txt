@@ -1,0 +1,20 @@
+
+
+   ==================
+    RBUG DEFENDER V2
+   ==================
+
+
+We present our Rbug Defender antivirus, 
+which will detect malicious and malicious spam processes. 
+If detected, you can terminate all processes with K.
+"FALSE ALARMS COULD BE EITHER THE TERMINAL
+ BECAUSE IT DETECTS SPAM AND EVEN MSGBOXES."
+ If you encounter a bug, please contact "ProjectRebug" on GitHub.
+
+                           ===================
+
+                              PROJECT REBUG
+                              OFFICIAL TEAM
+
+                           ===================
