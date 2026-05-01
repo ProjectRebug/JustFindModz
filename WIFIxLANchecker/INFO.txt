@@ -1,0 +1,18 @@
+
+=================================
+Your simple wifi and lan checker!
+=================================
+
+Welcome to WIFIxLAN checker!
+ We present this easy-to-use, user-friendly tool for getting info on your WiFi cards, LAN cards, or even your router's location!
+ (ONLY WORKS WITH NON-LAN WIFI) If you encounter a bug with our tool, please contact "ProjectRebug" on GitHub.
+
+
+
+
+
+
+                                                                  ==================================
+                                                                            PROJECT REBUG
+                                                                            OFFICIAL TEAM
+                                                                  ==================================
