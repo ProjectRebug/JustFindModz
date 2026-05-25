@@ -1,0 +1,13 @@
+Please read these conditions carefully, making sure you agree with each license.
+Do not use or load this software and any associated materials (collectively, the "Software") until you have carefully read the following terms and conditions. By loading or using the Software, you agree to the terms of this Agreement. If you do not wish to so agree, do not install or use the Software.
+Copyright © 2009-2019 G17 Media
+All Rights Reserved.
+
+You may copy the Software onto any amount of computers for your personal, noncommercial use, and you may make unlimited back-up copies of the Software, subject to these conditions:
+This Software is licensed for use only in conjunction with Red Dead Redemption 2 single player and any future versions or downloadable content of Red Dead Redemption 2 by Rockstar Games. Use of this software in any other manner is not licensed hereunder.
+You may not reverse engineer, decompile, or disassemble the Software.
+You may not copy, modify, rent, sell, distribute or transfer any part of the Software.
+You agree to prevent unauthorized copying of the Software.
+We reserve the right to void your right to use the Software at any time, without any warning.
+
+Please note that this software is provided by G17 Media and the contributors 'as is' and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall we be liable for any direct, indirect, special, exemplary or consequential damages (including, but not limited to, the procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised of the possibility of such damage. 
